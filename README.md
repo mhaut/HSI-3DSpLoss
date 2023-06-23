@@ -8,7 +8,7 @@ DOI: 10.1109/LGRS.2023.3288809
 July 2023.
 ```
 
-![SPLOSS](./images/SPLOSS.jpg)
+![SPLOSS](./images/SPLOSS.png)
 
 
 ## Run code
