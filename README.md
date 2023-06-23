@@ -8,8 +8,9 @@ DOI: 10.1109/LGRS.2023.3288809
 July 2023.
 ```
 
-![SPLOSS](./images/SPLOSS.png)
-
+<p align="center">
+<img src="images/SPLOSS.png" width="400" align="center"> 
+</p>
 
 ## Run code
 
